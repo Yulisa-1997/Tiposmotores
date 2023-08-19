@@ -1,0 +1,82 @@
+h1{color: coral;margin-bottom: 0dvb;}
+h2{color: darkslategray;}
+h3{color: darkslategray;}
+h4{color: darkslategray;font: size 16px;;}
+
+
+
+html{
+    background-color: #ffffff;
+    
+}
+h1{border-style: ridge;}
+html {
+    font-size: 100%;
+}
+
+
+.vector-feature-zebra-design-disabled body {
+    background-color: #f8f9fa;
+    color: #202122;
+}
+
+html, body {
+    font-family: sans-serif;
+}
+html, body {
+    height: 100%;
+}
+body {
+    margin: 5%;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    font-size: 100%;
+}
+nav {
+    background-color: #008B8B;
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #ff00ff, #00ffff);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  nav ul li a i {
+    margin-right: 5px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #4f95bb;
+    
+    
+  }

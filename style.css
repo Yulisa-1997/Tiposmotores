@@ -1,0 +1,134 @@
+body{ 
+    background-image: linear-gradient(to bottom right, #3fd5d0, #a6de2e);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  nav {
+    background-color: #008B8B;
+    color: #fff;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #3fd5d0, #a6de2e);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li:last-child {
+    margin-right: 0;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+    border-radius: 50px;
+  }
+  
+  nav ul li a i {
+    margin-right: 5px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #4f95bb;
+    border-radius: 50px;
+    }
+    .contenedor {
+        
+        background-color: #f2f2f2; 
+        font-family: "Arial", sans-serif;
+      }
+      
+      
+      
+      .tarjeta {
+        margin-top: 50px;
+        margin-left: 20px;
+        width: 400px;
+        background-image: linear-gradient(to bottom right, #13b899, #dce8e3);
+        background-size: cover;
+        background-attachment: fixed;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0.5, 0.5, 0.5, 0.4);
+        width: 900px;
+        height: 1100px;
+      
+      }
+      .contenido {
+        text-align: center;
+        padding: 20px;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+       color: #292c2c;
+      }
+      
+      .tarjeta h2 {
+        font-size: 24px;
+        margin-bottom: 10px;
+      }
+      
+      .tarjeta img {
+        max-width: 100%;
+        border-radius: 10px;
+        margin-bottom: 20px;
+      }
+      .tarjeta p {
+        font-size: 16px;
+        line-height: 1.5;
+      }
+      .tarjeta-2 {
+        position: relative;
+        margin-left: 950px;
+        margin-top: -1078px;
+        right: 0px;
+        width: 400px;
+        height: 600px;
+        background-image: linear-gradient(to bottom right, #4ecdd6, #dce8e3);
+        background-size: cover;
+        background-attachment: fixed;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0.5, 0.5, 0.5, 0.4);
+        overflow: hidden;
+        transition: box-shadow 0.3s ease-in-out;
+      }
+      .tarjeta-2:hover{
+        box-shadow: 10px 10px 25px rgba(0, 0, 0.5, 0.5);
+      }
+      .tarjeta-3 {
+        position: relative;
+        margin-left: 950px;
+        margin-top: 20px;
+        right: 0px;
+        width: 400px;
+        height: 300px;
+        background-image: linear-gradient(to bottom right, #4ecdd6, #dce8e3);
+        background-size: cover;
+        background-attachment: fixed;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0.5, 0.5, 0.5, 0.4);
+      }
+      .tarjeta-3{
+        box-shadow: 0 5px 15px rgba(0.5, 0.5, 0.5, 0.4);
+        overflow: hidden;
+        transition: box-shadow 0.3s ease-in-out;
+      }
+      
+      .tarjeta-3:hover{
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+      }
+      .tarjeta-3 img{
+        object-fit: cover;
+      }
+      
